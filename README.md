@@ -37,7 +37,7 @@ Clone down this repository. You will need node and npm installed globally on
 your machine.
 
 ```
-$ git clone https://github.com/jonathancarpena/portfolio.git
+$ git clone https://github.com/jonathancarpena/portfolio-v1.git
 ```
 
 1. Install dependencies `npm install`
