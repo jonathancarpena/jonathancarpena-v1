@@ -1,4 +1,4 @@
-# jonathancarpena.com - v1
+# jonathancarpena.me - v1
 
 > The first iteration of
 > <a href="https://jonathancarpena.me/" target="_blank" rel="noopener noreferrer">jonathancarpena.me</a>
