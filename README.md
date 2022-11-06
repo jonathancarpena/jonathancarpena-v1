@@ -10,7 +10,7 @@
 ## 📸 Screenshots
 
 <ul style="display:flex flex-direction:column">
-<img src="./public/projects/personal-site-v1/screenshots/landing-dark.PNG" style="max-width:100% max-height:375px;" alt="landing"> 
+<img src="./public/projects/personal-site-v1/screenshots/landing-dark.PNG" style="max-width:100%;max-height:375px;" alt="landing"> 
 <img src="./public/projects/personal-site-v1/screenshots/about-dark.PNG" style="max-width:100% max-height:375px;" alt="about"> 
 <img src="./public/projects/personal-site-v1/screenshots/work-dark.PNG" style="max-width:100% max-height:375px;" alt="work"> 
 </ul>
