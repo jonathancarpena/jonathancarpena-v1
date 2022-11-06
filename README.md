@@ -10,17 +10,17 @@
 ## 📸 Screenshots
 
 <ul style="display:flex flex-direction:column">
-<img src="./public/projects/personal-site-v1/screenshots/landing-dark.PNG" width="690" height="375" alt="landing"> 
-<img src="./public/projects/personal-site-v1/screenshots/about-dark.PNG" width="690" height="375" alt="about"> 
-<img src="./public/projects/personal-site-v1/screenshots/work-dark.PNG" width="690" height="375" alt="work"> 
+<img src="./public/projects/personal-site-v1/screenshots/landing-dark.PNG" style="max-width:100%; max-height:375px;" alt="landing"> 
+<img src="./public/projects/personal-site-v1/screenshots/about-dark.PNG" style="max-width:100%; max-height:375px;" alt="about"> 
+<img src="./public/projects/personal-site-v1/screenshots/work-dark.PNG" style="max-width:100%; max-height:375px;" alt="work"> 
 </ul>
 
 ### Light Mode
 
 <ul style="display:flex flex-direction:column">
-<img src="./public/projects/personal-site-v1/screenshots/landing.PNG" width="690" height="375" alt="landing-light"> 
-<img src="./public/projects/personal-site-v1/screenshots/about.PNG" width="690" height="375" alt="about-light"> 
-<img src="./public/projects/personal-site-v1/screenshots/work.PNG" width="690" height="375" alt="work-light"> 
+<img src="./public/projects/personal-site-v1/screenshots/landing.PNG" style="max-width:100%; max-height:375px;" alt="landing-light"> 
+<img src="./public/projects/personal-site-v1/screenshots/about.PNG" style="max-width:100%; max-height:375px;" alt="about-light"> 
+<img src="./public/projects/personal-site-v1/screenshots/work.PNG" style="max-width:100%; max-height:375px;" alt="work-light"> 
 </ul>
 
 ### Mobile
